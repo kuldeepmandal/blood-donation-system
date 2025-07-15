@@ -10,3 +10,6 @@ print("Hi", nam, "Mandal")
 a = 4
 b =6
 print("The sum of", a, "and", b, "is", a + b)
+
+namee="Krishna"
+print("Hi", namee, "Mandal")

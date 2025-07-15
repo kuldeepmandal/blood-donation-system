@@ -6,3 +6,7 @@ print("Hi", name2, "Mandal")
 
 nam="Krishna"
 print("Hi", nam, "Mandal")
+
+a = 4
+b =6
+print("The sum of", a, "and", b, "is", a + b)
